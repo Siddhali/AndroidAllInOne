@@ -8,7 +8,7 @@ class SecondActivity : AppCompatActivity() {
 
 //check push
 
-    //branch no 1
+    //branch no 2
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
