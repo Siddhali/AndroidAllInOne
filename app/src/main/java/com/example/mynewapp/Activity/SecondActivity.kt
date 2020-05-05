@@ -10,6 +10,7 @@ class SecondActivity : AppCompatActivity() {
 
     //branch no 1
     //branch no 2
+    //final merge
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
