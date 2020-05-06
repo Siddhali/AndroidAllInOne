@@ -6,11 +6,6 @@ import com.example.mynewapp.R
 
 class SecondActivity : AppCompatActivity() {
 
-//check push
-
-    //branch no 1
-    //branch no 2
-    //final merge
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
